@@ -1,0 +1,91 @@
+.warna1 {
+  background-color: #876445;
+}
+
+.warna2 {
+  background-color: #ca965c;
+}
+
+.warna3 {
+  background-color: #eec373;
+}
+
+.warna4 {
+  background-color: #f4dfba;
+}
+
+.banner {
+  height: 80vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/banner.jpg');
+}
+
+.hightlighted-kategori {
+  height: 250px;
+}
+
+.kategori-best-seller {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/bestseller.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.kategori-kuku-palsu {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/kukupalsu.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.kategori-kuku-asli {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/kukuasli.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.no-decoration {
+  text-decoration: none;
+  color: white;
+}
+
+.no-decoration:hover {
+  color: #eec373;
+}
+
+.text-harga {
+  font-size: 22px;
+  color: #ca965c;
+}
+
+.img-box {
+  height: 250px;
+}
+
+.img-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.content-subscribe {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+  color: #fff;
+}
+
+.banner-produk {
+  height: 70vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/banner.jpg');
+}
+
+.list-group a {
+  text-decoration: none;
+}
+
+.produk-terkait-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
